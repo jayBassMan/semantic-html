@@ -10,7 +10,7 @@ In this project, I Have attempted to restructure some HTML code with semantic HT
 
 ## Link to the Final Page
 
-[Here is a link to the final page](http://jaybassman.github.io/semantic-html/)
+[Here is a link to the final page](http://jaybassman.github.io/semantic-html/index.html)
 
 ## License
 
